@@ -7,6 +7,8 @@ github.com/Shopify/toxiproxy/v2 v2.5.0 h1:i4LPT+qrSlKNtQf5QliVjdP08GyAH8+BUIc9gT
 github.com/antihax/optional v1.0.0/go.mod h1:uupD/76wgC+ih3iEmQUL+0Ugr19nfwCT1kdvxnR2qWY=
 github.com/budhip/common v1.0.6 h1:VshHilcaAPliS4MMmBRsIzZHml6mfmaYwhXOFOUVAuQ=
 github.com/budhip/common v1.0.6/go.mod h1:hP19OHvdbBQnWRlffUqOVQoGvnl6tHerzZm1CqMLut0=
+github.com/budhip/messaging v0.0.0-20230503095631-e19aab0ae0ea h1:QkxpRTsv2o1S96SK73SRL81w3bf50JA1Z2TAbdXAqpI=
+github.com/budhip/messaging v0.0.0-20230503095631-e19aab0ae0ea/go.mod h1:eJfgi1VQ9ZcBXIRvqV6Lacg3ou8i01xOL4GLpgifIho=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/cespare/xxhash/v2 v2.1.1/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=

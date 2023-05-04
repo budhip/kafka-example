@@ -2,12 +2,10 @@ module github.com/budhip/kafka-example
 
 go 1.19
 
-replace github.com/budhip/messaging => /Users/budhipriatmojo/go/src/github.com/budhip/messaging
-
 require (
 	github.com/Shopify/sarama v1.38.1
 	github.com/budhip/common v1.0.6
-	github.com/budhip/messaging v0.0.0-00010101000000-000000000000
+	github.com/budhip/messaging v0.0.0-20230503095631-e19aab0ae0ea
 	github.com/sirupsen/logrus v1.9.0
 )
 
